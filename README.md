@@ -1,5 +1,3 @@
-### Hi there, I'm Jules 👋
-
 [![JulesCollenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesCollenne)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
