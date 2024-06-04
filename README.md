@@ -1,6 +1,11 @@
 <!-- [![JulesCollenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesCollenne)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesCollenne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Welcome! 🙌
+
+## Homepages
+- [Personal page](https://julescollenne.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/jules-collenne/)
+- [Google Scholar](https://scholar.google.com/citations?user=TQJRonQAAAAJ&hl=en)
 
 <!--
 **JulesCollenne/JulesCollenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
